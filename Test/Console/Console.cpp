@@ -6,6 +6,7 @@
 
 int main()
 {
+	printf("Å×½ºÆ®...");
     return 0;
 }
 
